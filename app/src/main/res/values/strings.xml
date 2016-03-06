@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Expensaty</string>
+
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="home">Home</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="add_income">Add Income</string>
+
+
+
+
+
+
+
+
+</resources>
